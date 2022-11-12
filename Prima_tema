@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>My CV</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+
+<body>
+    <h1>HTML Challenge</h1>
+    <img src="/Media/justme.png" width="200" height="200" alt="eu">
+    <h1>Razvan Buzea</h1>
+    <p>Junior software web developer in <strong>6 months</strong></p>
+    <p>Imi place enorm de mult tehnologia, din acest motiv am intrat intr-un domeniu in care totul este despre
+        tehnologie si imi place ca pot sa invat mereu ceva, nu exista loc de plafonare.</p>
+    <a href="https://youtu.be/5hdnDce3VWc" target="_blank">Primul meu link catre melodia mea preferata</a>
+    <h2>Carti preferate</h2>
+    <ul>
+        <li>Inca citesc</li>
+        <li>Nu am terminat niciuna inca.</li>
+        <li><em>Incerc sa citesc 30 minute zilnic</em></li>
+    </ul>
+    <h2>My Hobbies</h2>
+    <ol type="I">
+        <li>Tehnologia</li>
+        <li><strong>Fotografia</strong></li>
+        <li><u>Educatia financiara</u></li>
+    </ol>
+</body>
+
+</html>
